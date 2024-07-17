@@ -1,13 +1,8 @@
-# E-commerce-website
-This project is a e-commerce website built using modern web development technologies 
+# React + Vite
 
-Technologies and Libraries Used:
-Tailwind CSS: For styling and creating a responsive, mobile-first design with utility-first CSS classes.
-React.js: A JavaScript library for building user interfaces, enabling efficient rendering and component-based architecture.
-Vite: A fast and efficient build tool for modern web projects, providing an optimized development environment.
-Firebase: Utilized for authentication, real-time database, and hosting, ensuring secure and scalable backend services.
-Redux: For state management, allowing predictable state updates and easy debugging.
-Axios: A promise-based HTTP client for making API requests, ensuring smooth communication with backend services.
-Formik: For building and managing forms with ease, providing validation and form handling.
-React-Router-Dom: For handling routing and navigation within the application, enabling a seamless user experience.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
